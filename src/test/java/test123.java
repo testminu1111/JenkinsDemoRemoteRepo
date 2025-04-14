@@ -19,4 +19,8 @@ System.out.println("Test1");
         System.out.println("Test5");
 
     }
+    public void test1Tc_006() throws InterruptedException {
+        System.out.println("Test6");
+
+    }
 }
